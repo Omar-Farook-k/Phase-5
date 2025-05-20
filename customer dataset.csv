@@ -1,4 +1,4 @@
-Customer_ID,	Age	Gender,	Location,	Num_Interactions,	Feedback_Score,	Products_Purchased,	Products_Viewed,	Time_Spent_on_Site,	Satisfaction_Score,	Retention_Status,	Gender_Encoded,	Location_Encoded,	Retention_Status_Encoded
+Customer_ID	Age	Gender	Location	Num_Interactions	Feedback_Score	Products_Purchased	Products_Viewed	Time_Spent_on_Site	Satisfaction_Score	Retention_Status	Gender_Encoded	Location_Encoded	Retention_Status_Encoded
 1	56	Male	Urban	11	4	18	38	18.31960577	7	Retained	1	2	1
 2	69	Male	Suburban	10	3	2	17	9.015197609	6	Retained	1	1	1
 3	46	Male	Urban	5	5	11	46	45.92157192	10	Churned	1	2	0
